@@ -1,0 +1,25 @@
+record providing equality comparison
+switch statement being based on patterns
+using square brackets for collection expressions
+don't cast a single to a double
+how the garbage collection works, 3 generations
+unspeakable words
+passed by value reference and pointers
+datetime math
+Pay attention when using IEnumerable Count()
+sharplab.io tool
+Fundamental C# is not just for beginners
+Differences between class and struct
+double are for scientific and have Infinity, Not a Number
+Benchmark.Net Tool
+Always specify culture.
+switch pattern with a tuple
+With keyword for record cloning.
+Records give decent output for ToString()
+Profiling is easy.
+Use record struct instead of plain struct for better equality.
+Depth of Knowledge - Expertise, Competency, Background Knowledge
+Teaching people to share knowledge
+
+
+
